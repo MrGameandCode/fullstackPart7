@@ -1,0 +1,1 @@
+# Notification changed to work with redux. Also, we get rid of the notificacion errors and regular notifications and we merged them into one :)

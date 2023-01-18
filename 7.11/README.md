@@ -1,0 +1,2 @@
+# Due to heavy changes, exercises 7.11 and 7.12 were resolved at the same time. Branches are created to avoid confusion if an exercise was made or not. Sorry for the invonvenience.
+# Please, be patient with me, I'm learning :)

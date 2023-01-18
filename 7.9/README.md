@@ -1,0 +1,1 @@
+# Added prettier and also installed prettier-vscode. the rest, it's still the same as we've seen in the last bloglist exercise.
